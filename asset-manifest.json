@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/worldbanknotes/static/css/main.e065d9f7.chunk.css",
+    "main.js": "/worldbanknotes/static/js/main.79b276b6.chunk.js",
+    "main.js.map": "/worldbanknotes/static/js/main.79b276b6.chunk.js.map",
+    "runtime-main.js": "/worldbanknotes/static/js/runtime-main.1d2b613e.js",
+    "runtime-main.js.map": "/worldbanknotes/static/js/runtime-main.1d2b613e.js.map",
+    "static/js/2.694e859d.chunk.js": "/worldbanknotes/static/js/2.694e859d.chunk.js",
+    "static/js/2.694e859d.chunk.js.map": "/worldbanknotes/static/js/2.694e859d.chunk.js.map",
+    "static/js/3.0ff37265.chunk.js": "/worldbanknotes/static/js/3.0ff37265.chunk.js",
+    "static/js/3.0ff37265.chunk.js.map": "/worldbanknotes/static/js/3.0ff37265.chunk.js.map",
+    "index.html": "/worldbanknotes/index.html",
+    "static/css/main.e065d9f7.chunk.css.map": "/worldbanknotes/static/css/main.e065d9f7.chunk.css.map",
+    "static/js/2.694e859d.chunk.js.LICENSE.txt": "/worldbanknotes/static/js/2.694e859d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/worldbanknotes/static/media/money-1.0efff17e.jpg",
+    "static/media/banner.92865760.jpg": "/worldbanknotes/static/media/banner.92865760.jpg",
+    "static/media/boxicons.min.css": "/worldbanknotes/static/media/boxicons.83ea8051.woff",
+    "static/media/dollar.08b82bc1.png": "/worldbanknotes/static/media/dollar.08b82bc1.png",
+    "static/media/icofont.min.css": "/worldbanknotes/static/media/icofont.dad3accb.woff",
+    "static/media/logo.cdecbcb8.png": "/worldbanknotes/static/media/logo.cdecbcb8.png",
+    "static/media/custom.css": "/worldbanknotes/static/media/me.dd1bcf99.jpg",
+    "static/media/point-to.bd27ae48.svg": "/worldbanknotes/static/media/point-to.bd27ae48.svg",
+    "static/media/remixicon.css": "/worldbanknotes/static/media/remixicon.ea0a4a94.eot",
+    "static/media/services-2.8e51e67d.jpg": "/worldbanknotes/static/media/services-2.8e51e67d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d2b613e.js",
+    "static/js/2.694e859d.chunk.js",
+    "static/css/main.e065d9f7.chunk.css",
+    "static/js/main.79b276b6.chunk.js"
+  ]
+}
